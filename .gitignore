@@ -1,0 +1,8 @@
+# Ignore everything in data/
+data/
+
+# Ignore everything in results/
+results/
+
+# Ignore everything in PULSNAR/
+PULSNAR/
