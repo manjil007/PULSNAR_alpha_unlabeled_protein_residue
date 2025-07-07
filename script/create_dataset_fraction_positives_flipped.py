@@ -5,7 +5,7 @@ import numpy as np
 # ---------------------------------------------------------------------
 # 1. Paths and constants
 # ---------------------------------------------------------------------
-DATA_DIR = Path("/home/mpradhan/Intern_Research_Project/data")
+DATA_DIR = Path("/home/mpradhan007/Academic/Research_Projects/PULSNAR_alpha_unlabeled_protein_residue/data")
 master_file = DATA_DIR / "X_master_dense_prob.csv"
 label_file = DATA_DIR / "y_master.csv"
 
